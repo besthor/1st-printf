@@ -1,7 +1,9 @@
-Team project for ALX_SE This is our first collaborative project on ALX called printf.
-More Info
+# Team project for ALX_SE This is our first collaborative project on ALX called printf.
 
-Authorized functions and macros used for this project
+![](https://www.computerhope.com/cdn/linux/printf.gif)
+## More Info
+
+## Authorized functions and macros used for this project
 write (man 2 write)
 malloc (man 3 malloc)
 free (man 3 free)
@@ -10,6 +12,6 @@ va_end (man 3 va_end)
 va_copy (man 3 va_copy)
 va_arg (man 3 va_arg)
 
-Compilation
+## Compilation
 Our codes were compiled this way:
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
