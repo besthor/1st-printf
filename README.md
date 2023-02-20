@@ -1,5 +1,7 @@
-Team project for ALX_SE This is our first collaborative project on ALX called printf.
-More Info
+# project for ALX_SE This is our first collaborative project on ALX called printf.
+![](https://www.computerhope.com/cdn/linux/printf.gif)
+
+## More Info
 
 Authorized functions and macros used for this project
 write (man 2 write)
