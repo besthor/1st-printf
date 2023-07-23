@@ -1,9 +1,6 @@
 # `Team project for ALX SoftWare Engineering program`
 ## This is our first collaborative project on the program called printf.
 
-
-![](https://www.computerhope.com/cdn/linux/printf.gif)
-# 
 ![](https://www.programmingassignment.net/wp-content/uploads/2016/11/printf-and-scanf.png)
 
 
